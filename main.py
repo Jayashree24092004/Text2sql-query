@@ -51,10 +51,6 @@ st.title("AI SQL Assistant using Grok")
 # FILE UPLOAD
 # =========================
 
-# =========================
-# FILE UPLOAD
-# =========================
-
 uploaded_files = st.file_uploader(
     "Upload Multiple CSV Files",
     type=["csv"],
